@@ -191,6 +191,6 @@ hrms-lite/
 
 ---
 
-## 📝 License
-
-MIT — free to use and modify.
+## 📝 Live URL
+-Frontend: https://hrms-lite-ivhc.vercel.app/
+-Backend: https://hrms-lite-evj3.onrender.com/
