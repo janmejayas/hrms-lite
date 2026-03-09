@@ -43,7 +43,7 @@ A lightweight, production-ready HRMS web application for managing employees and 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/hrms-lite.git
+git clone https://github.com/janmejayas/hrms-lite.git
 cd hrms-lite
 ```
 
@@ -175,7 +175,6 @@ hrms-lite/
 │   │   └── index.css        # Design system + global styles
 │   ├── index.html
 │   ├── vite.config.js
-│   ├── vercel.json
 │   └── package.json
 └── README.md
 ```
